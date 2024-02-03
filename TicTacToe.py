@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-Dan Foster Python Boot Camp Milestone Project 1 - Tic Tac Toe Game
+Dan Foster Python Project - Tic Tac Toe Game
 """
 
 
